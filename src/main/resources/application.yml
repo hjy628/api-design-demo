@@ -1,0 +1,9 @@
+redis:
+  host: 10.137.1.31
+  password: password
+
+spring:
+  redis:
+    host: 10.137.1.31
+    password: password
+    database: 13
